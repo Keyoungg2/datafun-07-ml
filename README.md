@@ -237,7 +237,7 @@ This statistic measures the average amount that the estimated coefficients diffe
 print(f"R-squared: {r_value**2}")
 print(f"P-value: {p_value}")
 print(f"Standard Error: {std_err}")
-'''
+```
 
 ## 11. Code Structure and Documentation
 
